@@ -1,4 +1,4 @@
-@GymTrackerAPI_HostAddress = http://localhost:5169
+@GymTrackerAPI_HostAddress = https://localhost:7103
 
 GET {{GymTrackerAPI_HostAddress}}/weatherforecast/
 Accept: application/json
