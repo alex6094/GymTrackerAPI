@@ -1,4 +1,4 @@
-﻿namespace GymTrackerAPI.Models
+﻿namespace GymTrackerAPI.Entities
 {
 	public class Workout
 	{
